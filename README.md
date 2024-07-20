@@ -1,6 +1,6 @@
 <h1>Project Jaffles!</h1>
 
-<p>My first data injestion pipeline project from an <a href = "https://github.com/dbt-labs/jaffle-shop">online repository by DBT</a>( <span style = "font-size:12px">please be nice &#x1F60A;</span>). The original cloned repository can be found under <a href = "https://github.com/fabianono/jaffles/tree/main/deprecated_jaffleshop_dbt">"deprecated_jaffleshop_dbt"</a>.</p>
+<p>My first data injestion pipeline project from an <a href = "https://github.com/dbt-labs/jaffle-shop">online repository by DBT</a>( <span style = "font-size:12px">please be nice &#x1F60A;</span>). The original cloned repository can be found under "<a href = "https://github.com/fabianono/jaffles/tree/main/deprecated_jaffleshop_dbt">deprecated_jaffleshop_dbt</a>". The data injestion scripts can be found under the folder "<a href = "https://github.com/fabianono/jaffles/tree/main/PipelineInjestionScripts">PipelineInjestionScripts"</a>".</p>
 
 <div style = "margin-bottom:16px;">
 Here is a snapshot of the data mapping.
